@@ -2,14 +2,13 @@ package com.preoday.nasaapi.domain;
 
 public class Mars {
 
-   private String averageTemperature;
+    private Float averageTemperature;
 
-    public String getAverageTemperature() {
+    public Float getAverageTemperature() {
         return averageTemperature;
     }
 
-    public void setAverageTemperature(String averageTemperature) {
+    public void setAverageTemperature(Float averageTemperature) {
         this.averageTemperature = averageTemperature;
     }
 }
-
