@@ -2,6 +2,9 @@
 
 Api construído para o teste de desenvolvedor Java da Empresa Preoday
 
+# Descrição
+Nasa API to get the temperature of a given SOL. If the temperature is not given the API calculates the average of the all temperatures in a period of time
+
 ### O que vamos usar?
 * Projeto foi criado no https://start.spring.io/ .
 * Uma IDE (STS ou IntelliJ por exemplo)
